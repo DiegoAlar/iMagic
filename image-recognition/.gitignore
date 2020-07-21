@@ -1,0 +1,10 @@
+access.csv
+full_script.py
+__pycache__
+*.pyc
+node_modules
+package-lock.json
+.next
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
